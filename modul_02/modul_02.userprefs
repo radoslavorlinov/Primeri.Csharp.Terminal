@@ -1,1 +1,13 @@
-﻿<Properties StartupItem="modul_02\modul_02.csproj" />
+﻿<Properties StartupItem="modul_02\modul_02.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="modul_02\Program.cs">
+    <Files>
+      <File FileName="modul_02\Program.cs" Line="19" Column="27" />
+      <File FileName="..\hello_aula\hello_aula\Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+C:\aula\primeri.scharp.terminal\modul_02\modul_02\bin\Debug\modul_02.exe
+C:\aula\primeri.scharp.terminal\modul_02\modul_02\bin\Debug\modul_02.pdb
+C:\aula\primeri.scharp.terminal\modul_02\modul_02\obj\x86\Debug\modul_02.csprojResolveAssemblyReference.cache
+C:\aula\primeri.scharp.terminal\modul_02\modul_02\obj\x86\Debug\modul_02.exe
+C:\aula\primeri.scharp.terminal\modul_02\modul_02\obj\x86\Debug\modul_02.pdb

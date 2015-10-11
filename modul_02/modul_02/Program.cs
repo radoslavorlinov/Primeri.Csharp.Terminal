@@ -8,6 +8,13 @@ namespace modul_02
 		{
 			//Дефиниране на променливи
 			int a=0; int b; int sum;
+			string program_name = "Modul 02 - Primeri";
+			string program_version = "1.0";
+			
+			//За програмата
+			Console.WriteLine (program_name);
+			Console.WriteLine ("Version: " + program_version);
+
 
 			//Събиане на числа
 			a=10; b=6; sum=a+b;
@@ -33,6 +40,7 @@ namespace modul_02
 
 			Console.WriteLine ("Standartno delene: " + (7 / 3).ToString ()); //->2
 			Console.WriteLine ("Standartno delene: " + (7 % 3).ToString ()); // остатък 1
+
 
 
 			Console.ReadKey ();

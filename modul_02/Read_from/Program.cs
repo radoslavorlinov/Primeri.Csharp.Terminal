@@ -31,6 +31,7 @@ namespace Read_from
 
 			Console.WriteLine ("Treti znak: " + test.Split(';')[2] + "\n");
 
+			Console.ReadKey ();
 
 		}
 	}

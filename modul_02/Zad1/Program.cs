@@ -17,7 +17,9 @@ namespace Zad1
 			b = Console.ReadLine();
 			sum = a + b;
 //			a = Convert.ToString(Console.ReadKey());
-			Console.WriteLine (sum);
+			Console.WriteLine (sum+" L= ");
+
+			Console.ReadKey ();
 
 		}
 	}

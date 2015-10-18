@@ -1,0 +1,4 @@
+C:\aula\primeri.scharp.terminal\modul_02\Read_from\bin\Debug\Read_from.exe
+C:\aula\primeri.scharp.terminal\modul_02\Read_from\bin\Debug\Read_from.pdb
+C:\aula\primeri.scharp.terminal\modul_02\Read_from\obj\x86\Debug\Read_from.exe
+C:\aula\primeri.scharp.terminal\modul_02\Read_from\obj\x86\Debug\Read_from.pdb

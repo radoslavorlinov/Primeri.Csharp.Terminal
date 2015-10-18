@@ -1,0 +1,5 @@
+C:\aula\primeri.scharp.terminal\modul_02\Zad1\bin\Debug\Zad1.exe
+C:\aula\primeri.scharp.terminal\modul_02\Zad1\bin\Debug\Zad1.pdb
+C:\aula\primeri.scharp.terminal\modul_02\Zad1\obj\x86\Debug\Zad1.csprojResolveAssemblyReference.cache
+C:\aula\primeri.scharp.terminal\modul_02\Zad1\obj\x86\Debug\Zad1.exe
+C:\aula\primeri.scharp.terminal\modul_02\Zad1\obj\x86\Debug\Zad1.pdb

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul03", "Modul03\Modul03.csproj", "{9FE62E70-13CF-442F-B68A-1AE0936086E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boolExpl", "boolExpl\boolExpl.csproj", "{7FF6FC36-62C2-4225-A1F3-7008F0B649DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF6FC36-62C2-4225-A1F3-7008F0B649DF}.Debug|x86.ActiveCfg = Debug|x86
+		{7FF6FC36-62C2-4225-A1F3-7008F0B649DF}.Debug|x86.Build.0 = Debug|x86
+		{7FF6FC36-62C2-4225-A1F3-7008F0B649DF}.Release|x86.ActiveCfg = Release|x86
+		{7FF6FC36-62C2-4225-A1F3-7008F0B649DF}.Release|x86.Build.0 = Release|x86
+		{9FE62E70-13CF-442F-B68A-1AE0936086E7}.Debug|x86.ActiveCfg = Debug|x86
+		{9FE62E70-13CF-442F-B68A-1AE0936086E7}.Debug|x86.Build.0 = Debug|x86
+		{9FE62E70-13CF-442F-B68A-1AE0936086E7}.Release|x86.ActiveCfg = Release|x86
+		{9FE62E70-13CF-442F-B68A-1AE0936086E7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
